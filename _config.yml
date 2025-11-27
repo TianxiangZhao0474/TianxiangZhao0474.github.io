@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jipeng Guo"
+title                    : "Tianxiang Zhao"
 title_separator          : "-"
-name                     : &name "Jipeng Guo (郭继鹏)"
-description              : &description "PhD|CAAI Member"
-url                      : https://JipengGuo95.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tianxiang Zhao (赵天祥)"
+# description              : &description "PhD|CAAI Member"
+url                      : https://TianxiangZhao0474.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JipengGuo95/JipengGuo95.github.io"
+repository               : "TianxiangZhao0474/TianxiangZhao0474.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,19 +22,19 @@ repository               : "JipengGuo95/JipengGuo95.github.io"
 author:
   # Biographic information
   avatar           : "jipengguo.jpg"
-  name             : "Jipeng Guo (郭继鹏)"
+  name             : "Tianxiang Zhao (赵天祥)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD, IEEE/CCF/CAAI/CAA/CSIG Member "
+  # bio              : "PhD, IEEE/CCF/CAAI/CAA/CSIG Member "
   location         : "Beijing, China"
   employer         : "北京化工大学 (BUCT)"
   uri              : # URL
-  email            : # guojipeng@buct.edu.cn 
+  email            : # tianxiangzhao@buct.edu.cn 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=iynZISwAAAAJ&hl=zh-CN&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0007-4880-0305"
+  orcid            : #"https://orcid.org/0009-0007-4880-0305"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "JipengGuo95"
+  github           : "TianxiangZhao0474"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
