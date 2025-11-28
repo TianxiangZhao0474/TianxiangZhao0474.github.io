@@ -16,15 +16,15 @@ Tianxiang Zhao received the B.S. degree in Automation from Beijing University of
 - Artificial Intelligence for Science and Biological Proteins
 
 # <i><span style="color:red;">News</span></i>
-* **<span style="color:red;">[Congratulation:]</span>** Tianxiang Zhao has been awarded the China National Scholarship. (Dec. 2025)
+* **<span style="color:red;">[Congratulation]</span>** Tianxiang Zhao has been awarded the China National Scholarship. (Dec. 2025)
   
-* **<span style="color:green;">[Paper:]</span>** One paper has been accepted by _**Pattern Recognition**_. (Sep. 2025)
+* **<span style="color:green;">[Paper]</span>** One paper has been accepted by _**Pattern Recognition**_. (Sep. 2025)
 
-* **<span style="color:green;">[Paper:]</span>** One paper has been accepted by _**NeurIPS**_. (Sep. 2025)
+* **<span style="color:green;">[Paper]</span>** One paper has been accepted by _**NeurIPS**_. (Sep. 2025)
 
-* **<span style="color:red;">[Congratulation:]</span>** Tianxiang Zhao was selected for the "大学生英才计划" by the Chinese Association of Automation. (July 2025)
+* **<span style="color:red;">[Congratulation]</span>** Tianxiang Zhao was selected for the "大学生英才计划" by the Chinese Association of Automation. (July 2025)
 
-* **<span style="color:green;">[Paper:]</span>** One paper has been accepted by _**IEEE/CAA Journal of Automatica Sinica**_. (May 2025)
+* **<span style="color:green;">[Paper]</span>** One paper has been accepted by _**IEEE/CAA Journal of Automatica Sinica**_. (May 2025)
 
 ## Publications
 - **Tianxiang Zhao**, Youqing Wang, Shilong Xu, Tianchuan Yang Junbin Gao, Jipeng Guo*. "Dual-level Noise Augmentation for Graph Clustering with Triplet-wise Contrastive Learning",  _**Pattern Recognition**_, 2025. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325011264) [[Code]](https://github.com/TianxiangZhao0474/DNA-GC.git)
