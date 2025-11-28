@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also find more articles on [Google Scholar](https://scholar.google.com/citations?user=iynZISwAAAAJ&hl=zh-CN&oi=ao).
+You can also find articles on [Google Scholar](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=en).
 
 ## Publications
 **<span style="color:green;">[2025]</span>**
