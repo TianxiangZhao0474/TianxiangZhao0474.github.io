@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Tianxiang Zhao received the B.S. degree in Automation from Beijing University of Chemical Technology (BUCT), Beijing, China, in 2024. Currently, he is pursuing a master's degree in control science and engineering at the College of Information Science and Technology, BUCT, China. Meanwhile, he is fortunate to be receiving guidance from Prof. [Youqing Wang (王友清)](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm) and [Jipeng Guo (郭继鹏)](https://jipengguo95.github.io/).
+Tianxiang Zhao received the B.S. degree in Automation from Beijing University of Chemical Technology (BUCT), Beijing, China, in 2024. Currently, he is pursuing a doctoral degree in control science and engineering at the College of Information Science and Technology, BUCT, China. Meanwhile, he is fortunate to be receiving guidance from Prof. [Youqing Wang (王友清)](https://cist.buct.edu.cn/2022/0307/c8725a165375/page.htm) and [Jipeng Guo (郭继鹏)](https://jipengguo95.github.io/).
 
 ## Main Research Interests
 - Machine Learning and Artificial Intelligence
