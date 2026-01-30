@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-published: true
+#published: true
 ---
 
 {% include base_path %}
