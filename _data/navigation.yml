@@ -15,8 +15,8 @@ main:
  # - title: "Blog Posts"
   #  url: /year-archive/
     
-  # - title: "Professional Activities"
-    # url: /cv/
+   - title: "Professional Activities"
+     url: /cv/
     
   # - title: "Students"
     # url: /students/
