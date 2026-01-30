@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 ## Reviewer for Conferences
-- International Conference on Machine Learning (ICML) [2025](https://icml.cc/)
+- International Conference on Machine Learning (ICML) [2026](https://icml.cc/)
