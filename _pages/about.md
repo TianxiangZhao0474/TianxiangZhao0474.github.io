@@ -16,6 +16,8 @@ Tianxiang Zhao received the B.S. degree in Automation from Beijing University of
 - Artificial Intelligence for Science and Biological Proteins
 
 # <i><span style="color:red;">News</span></i>
+* **<span style="color:green;">[Paper]</span>** One paper has been accepted by _**Pattern Recognition**_. (Feb. 2026)
+
 * **<span style="color:green;">[Paper]</span>** One paper has been accepted by _**ACTA AUTOMATICA SINICA**_. (Jan. 2026)
 
 * **<span style="color:red;">[Congratulation]</span>** Tianxiang Zhao has been awarded the China National Scholarship. (Dec. 2025)
