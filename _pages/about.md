@@ -37,5 +37,5 @@ Tianxiang Zhao received the B.S. degree in Automation from Beijing University of
 
 - **Tianxiang Zhao**, Youqing Wang, Jinlu Wang, Jiapu Wang, Mingliang Cui, Junbin Gao, Jipeng Guo*. "Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering", _**NeurIPS**_, 2025. [[PDF]](https://openreview.net/forum?id=fb7maZToPl) [[Code]](https://github.com/TianxiangZhao0474/RAGC.git)
 
-- Youqing Wang, **Tianxiang Zhao**, Mingliang Cui, Junbin Gao, Li Liang, Jipeng Guo*. "Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning",  _**IEEE/CAA Journal of Automatica Sinica**_, 2025. [[Code]](https://github.com/TianxiangZhao0474/WGCN.git)
+- Youqing Wang, **Tianxiang Zhao**, Mingliang Cui, Junbin Gao, Li Liang, Jipeng Guo*. "Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning",  _**IEEE/CAA Journal of Automatica Sinica**_, 2025. [[PDF]](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2025.125564) [[Code]](https://github.com/TianxiangZhao0474/WGCN.git)
 
