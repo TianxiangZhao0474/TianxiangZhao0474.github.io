@@ -12,6 +12,7 @@ You can also find articles on [Google Scholar](https://scholar.google.com/citati
 
 ## Publications
 **<span style="color:green;">[2026]</span>**
+- Tianyou Yu†, Kailin Zhang†, Jianlin Zheng†, Tianruo Liu, **Tianxiang Zhao***, Haopeng Yang, Jipeng Guo\*. "Multi-order Filter Fusion and Triple Contrastive Learning for Attribute Graph Clustering", _**IJCNN**_, 2026.
 - **Tianxiang Zhao**, Youqing Wang, Shilong Xu, Tianchuan Yang Junbin Gao, Jipeng Guo*. "Dual-level Noise Augmentation for Graph Clustering with Triplet-wise Contrastive Learning",  _**Pattern Recognition**_, 2026, 172: 112463. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325011264) [[Code]](https://github.com/TianxiangZhao0474/DNA-GC.git)
 - Youqing Wang, **Tianxiang Zhao**, Mingliang Cui, Junbin Gao, Li Liang, Jipeng Guo*. "Representation then Augmentation: Wide Graph Clustering Network with Multi-order Filter Fusion and Double-level Contrastive Learning",  _**IEEE/CAA Journal of Automatica Sinica**_, 2026, 13(2): 421-435. [[PDF]](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2025.125564) [[Code]](https://github.com/TianxiangZhao0474/WGCN.git)
 
