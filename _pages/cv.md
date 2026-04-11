@@ -14,4 +14,5 @@ redirect_from:
 
 ## Reviewer for Conferences
 - International Conference on Machine Learning ([ICML](https://icml.cc/)) 2026
+- ACM International Conference on Multimedia ([ACM MM](https://2026.acmmm.org/)) 2026
 - International Joint Conference on Neural Networks ([IJCNN](https://attend.ieee.org/wcci-2026/)) 2026
