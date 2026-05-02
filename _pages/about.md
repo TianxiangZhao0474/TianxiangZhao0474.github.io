@@ -35,6 +35,10 @@ Tianxiang Zhao received the B.S. degree in Automation from Beijing University of
 * **<span style="color:green;">[Paper]</span>** One paper has been accepted by _**IEEE/CAA Journal of Automatica Sinica**_. (May 2025)
 
 ## Publications
+- Youqing Wang, **TianxiangZhao**, Mengyuan Xin, Ye Su, Jiapu Wang, Tengfei Liu, Junbin Gao, Jipeng Guo*. "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion", _**ICML**_, 2026.
+
+- Youqing Wang, Jiahao Long, **TianxiangZhao\***, Man Cao, Mengyuan Xin, Jiapu Wang, Junbin Gao, Jipeng Guo*. "Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion", _**ICML**_, 2026.
+
 - **Tianxiang Zhao**, Youqing Wang, Shilong Xu, Tianchuan Yang Junbin Gao, Jipeng Guo*. "Dual-level Noise Augmentation for Graph Clustering with Triplet-wise Contrastive Learning",  _**Pattern Recognition**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325011264) [[Code]](https://github.com/TianxiangZhao0474/DNA-GC.git)
 
 - **Tianxiang Zhao**, Youqing Wang, Jinlu Wang, Jiapu Wang, Mingliang Cui, Junbin Gao, Jipeng Guo*. "Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering", _**NeurIPS**_, 2025. [[PDF]](https://openreview.net/forum?id=fb7maZToPl) [[Code]](https://github.com/TianxiangZhao0474/RAGC.git)
