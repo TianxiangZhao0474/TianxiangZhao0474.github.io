@@ -39,7 +39,7 @@ Tianxiang Zhao received the B.S. degree in Automation from Beijing University of
 <p style="color: #777777; font-size: 0.95em; margin-top: -10px; margin-bottom: 25px;">
   († indicates equal contribution, * indicates corresponding author)
 </p>
-####
+
 <div class="pub-container">
   <div class="pub-left">
     <span class="pub-badge">ICML</span>
