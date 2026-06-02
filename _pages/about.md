@@ -105,7 +105,7 @@ Tianxiang Zhao received the B.S. degree in Automation from Beijing University of
   </div>
 </div>
 
-You can also find articles on [Google Scholar](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=en).
+You can also find more papers on [Google Scholar](https://scholar.google.com/citations?user=6ylfEHwAAAAJ&hl=en).
 
 ## Services
 
