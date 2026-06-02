@@ -127,7 +127,12 @@
 
 @media (min-width: 1024px) {
     .sidebar {
-        width: 400px !important;
+        z-index: 10 !important; 
+    }
+
+    .page {
+        width: calc(100% - 360px) !important;
+        float: right !important;   
     }
 }
 
