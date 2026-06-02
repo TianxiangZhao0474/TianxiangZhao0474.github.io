@@ -61,7 +61,7 @@ Tianxiang Zhao received the B.S. degree in Automation from Beijing University of
   
   <div class="pub-right">
     <a href="https://openreview.net/forum?id=XtqZ41BUkF&" class="pub-title">Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion</a>
-    <div class="pub-authors">Youqing Wang, Jiahao Long, <strong>TianxiangZhao*<strong>, Man Cao, Mengyuan Xin, Jiapu Wang, Junbin Gao, Jipeng Guo*.</div>
+    <div class="pub-authors">Youqing Wang, Jiahao Long, <strong>TianxiangZhao*</strong>, Man Cao, Mengyuan Xin, Jiapu Wang, Junbin Gao, Jipeng Guo*.</div>
     <div class="pub-venue"><em> International Conference on Machine Learning (<strong> ICML, CCF A</strong>), 2026.</em></div>
   </div>
 </div>
