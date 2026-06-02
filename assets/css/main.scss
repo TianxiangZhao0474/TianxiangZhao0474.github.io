@@ -49,7 +49,6 @@
     gap: 24px;
     align-items: flex-start;
     margin-bottom: 35px;
-    /* Minimal Mistakes 会自动应用它的全局字体，所以这里不需要再强制指定 font-family */
 }
 
 .pub-left {
@@ -92,7 +91,7 @@
     color: #1a73e8; 
     text-decoration: none;
     display: inline-block;
-    margin-bottom: 6px;
+    // margin-bottom: 6px;
 }
 
 .pub-title:hover {
@@ -102,7 +101,7 @@
 .pub-authors {
     font-size: 14px;
     color: #555555;
-    margin-bottom: 6px;
+    // margin-bottom: 6px;
 }
 
 .pub-authors strong {
