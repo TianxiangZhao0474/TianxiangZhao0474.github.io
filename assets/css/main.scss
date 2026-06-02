@@ -127,20 +127,32 @@
 
 /* ==========================================================================
    ========================================================================== */
+
 @media (min-width: 1024px) {
     #main {
-        max-width: 1050px !important; 
-        margin-left: auto !important;
-        margin-right: auto !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: flex-start !important; 
+        max-width: 1200px !important; 
+        margin: 0 auto !important; 
+        gap: 80px !important; 
     }
 
     .sidebar {
-        padding-right: 45px !important;
+        flex: 0 0 280px !important; 
+        width: 280px !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        float: none !important;   
     }
 
     .page {
-        padding-left: 45px !important;
-        max-width: 720px !important; 
+        flex: 0 1 680px !important; 
+        width: 100% !important;
+        max-width: 680px !important; 
+        margin: 0 !important;
+        padding: 0 !important;
+        float: none !important;    
     }
 }
 
