@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Tianxiang Zhao"
 title_separator          : "-"
-name                     : &name "Tianxiang Zhao (赵天祥)"
+name                     : &name "Tianxiang Zhao"
 # description              : &description "PhD|CAAI Member"
 url                      : https://TianxiangZhao0474.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "TianxiangZhao0474/TianxiangZhao0474.github.io"
 author:
   # Biographic information
   avatar           : "TianxiangZhao.jpg"
-  name             : "Tianxiang Zhao (赵天祥)"
+  name             : "Tianxiang Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Master’s student, CAA/CCF student member"#, IEEE/CCF/CAAI/CAA/CSIG Member PhD student
   location         : "Beijing, China"
