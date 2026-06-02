@@ -126,10 +126,18 @@
 
 
 @media (min-width: 1024px) {
-    .sidebar {
-        z-index: 10 !important; 
+   .sidebar {
+        width: 380px !important;  
+        max-width: 380px !important;
+        float: left !important;
     }
-
+    .author__urls li,
+    .author__urls span,
+    .author__urls a {
+        white-space: nowrap !important;
+        overflow: visible !important;
+        text-overflow: clip !important; 
+    }
     .page {
         width: calc(100% - 360px) !important;
         float: right !important;   
