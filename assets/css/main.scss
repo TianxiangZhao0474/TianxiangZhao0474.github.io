@@ -72,9 +72,19 @@
     text-transform: uppercase;
 }
 
+// .pub-image {
+//     width: 100%;
+//     height: auto;
+//     border-radius: 4px;
+//     box-shadow: 0 4px 10px rgba(0,0,0,0.15); 
+//     display: block;
+// }
+
 .pub-image {
-    width: 100%;
-    height: auto;
+    width: 170px; 
+    height: 110px;  
+    object-fit: cover; 
+    object-position: top;
     border-radius: 4px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.15); 
     display: block;
