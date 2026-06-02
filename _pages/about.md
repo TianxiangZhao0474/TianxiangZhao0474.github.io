@@ -34,7 +34,12 @@ Tianxiang Zhao received the B.S. degree in Automation from Beijing University of
 
 * **<span style="color:green;">[Paper]</span>** One paper has been accepted by _**IEEE/CAA Journal of Automatica Sinica**_. (May 2025)
 
-## Publications
+## Recent Publications
+
+<p style="color: #777777; font-size: 0.95em; margin-top: -10px; margin-bottom: 25px;">
+  († indicates equal contribution, * indicates corresponding author)
+</p>
+
 - Youqing Wang, **TianxiangZhao**, Mengyuan Xin, Ye Su, Jiapu Wang, Tengfei Liu, Junbin Gao, Jipeng Guo*. "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion", _**ICML**_, 2026.
 
 <div class="pub-container">
