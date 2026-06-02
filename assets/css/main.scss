@@ -119,16 +119,27 @@
     color: #222222;
 }
 
-
-@media (min-width: 1024px) {
-    .sidebar {
-        padding-right: 30px !important; 
-    }
-    .page {
-        padding-left: 30px !important; 
-    }
-}
 .pub-venue {
     font-size: 14px;
     color: #555555;
+}
+
+
+/* ==========================================================================
+   ========================================================================== */
+@media (min-width: 1024px) {
+    #main {
+        max-width: 1050px !important; 
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .sidebar {
+        padding-right: 45px !important;
+    }
+
+    .page {
+        padding-left: 45px !important;
+        max-width: 720px !important; 
+    }
 }
