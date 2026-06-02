@@ -40,8 +40,6 @@ Tianxiang Zhao received the B.S. degree in Automation from Beijing University of
   († indicates equal contribution, * indicates corresponding author)
 </p>
 
-- Youqing Wang, **TianxiangZhao**, Mengyuan Xin, Ye Su, Jiapu Wang, Tengfei Liu, Junbin Gao, Jipeng Guo*. "Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion", _**ICML**_, 2026.
-
 <div class="pub-container">
   <div class="pub-left">
     <span class="pub-badge">ICML</span>
@@ -55,7 +53,18 @@ Tianxiang Zhao received the B.S. degree in Automation from Beijing University of
   </div>
 </div>
 
-- Youqing Wang, Jiahao Long, **TianxiangZhao\***, Man Cao, Mengyuan Xin, Jiapu Wang, Junbin Gao, Jipeng Guo*. "Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion", _**ICML**_, 2026.
+<div class="pub-container">
+  <div class="pub-left">
+    <span class="pub-badge">ICML</span>
+    <img src="d-image/APGC.png" alt="Paper Thumbnail" class="pub-image">
+  </div>
+  
+  <div class="pub-right">
+    <a href="https://openreview.net/forum?id=XtqZ41BUkF&" class="pub-title">Dual-channel Dynamic Graph Neural Networks with Adaptive Adjacency Learning and Multi-scale Representation Fusion</a>
+    <div class="pub-authors">Youqing Wang, Jiahao Long, <strong>TianxiangZhao*<strong>, Man Cao, Mengyuan Xin, Jiapu Wang, Junbin Gao, Jipeng Guo*.</div>
+    <div class="pub-venue"><em> International Conference on Machine Learning (<strong> ICML, CCF A</strong>), 2026.</em></div>
+  </div>
+</div>
 
 - **Tianxiang Zhao**, Youqing Wang, Shilong Xu, Tianchuan Yang Junbin Gao, Jipeng Guo*. "Dual-level Noise Augmentation for Graph Clustering with Triplet-wise Contrastive Learning",  _**Pattern Recognition**_, 2026. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325011264) [[Code]](https://github.com/TianxiangZhao0474/DNA-GC.git)
 
