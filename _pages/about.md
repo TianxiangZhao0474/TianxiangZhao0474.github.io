@@ -51,7 +51,7 @@ Tianxiang Zhao received the B.S. degree in Automation from Beijing University of
   <div class="pub-right">
     <a href="https://openreview.net/forum?id=XtqZ41BUkF&" class="pub-title">Deep Multi-view Graph Clustering via Attribute-aware Bidirectional Structural Refinement and Pseudo-label Guided Multi-level Fusion</a>
     <div class="pub-authors">Youqing Wang, <strong>Tianxiang Zhao</strong>, Mengyuan Xin, Ye Su, Jiapu Wang, Tengfei Liu, Junbin Gao, Jipeng Guo*.</div>
-    <div class="pub-venue">International Conference on Machine Learning (<strong>ICML, CCF A</strong>), 2026.</div>
+    <div class="pub-venue">International Conference on Machine Learning (ICML, CCF A), 2026.</div>
   </div>
 </div>
 
