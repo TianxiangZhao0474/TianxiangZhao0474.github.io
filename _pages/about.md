@@ -116,5 +116,5 @@ You can also find more papers on [Google Scholar](https://scholar.google.com/cit
 - Reviewer for International Joint Conference on Neural Networks (IJCNN)
 - Reviewer for Expert Systems With Applications (ESWA)
 - Reviewer for Transactions on Machine Learning Research (TMLR)
-- Reviewer for Applied Soft Computing
+- Reviewer for Applied Soft Computing (ASOC)
 
