@@ -16,6 +16,8 @@ Tianxiang Zhao received the B.S. degree in Automation from Beijing University of
 - Artificial Intelligence for Science and Biological Proteins
 
 # <i><span style="color:red;">News</span></i>
+* **<span style="color:green;">[Paper]</span>** One paper has been accepted by _**ACM MM**_. (Jul. 2026)
+
 * **<span style="color:green;">[Paper]</span>** Two papers have been accepted by _**ICML**_. (May 2026)
 
 * **<span style="color:green;">[Paper]</span>** Two papers have been accepted by _**IJCNN**_. (Mar. 2026)
@@ -114,4 +116,5 @@ You can also find more papers on [Google Scholar](https://scholar.google.com/cit
 - Reviewer for International Joint Conference on Neural Networks (IJCNN)
 - Reviewer for Expert Systems With Applications (ESWA)
 - Reviewer for Transactions on Machine Learning Research (TMLR)
+- Reviewer for Applied Soft Computing
 
