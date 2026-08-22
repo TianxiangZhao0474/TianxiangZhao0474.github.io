@@ -12,7 +12,7 @@ Tianxiang Zhao received the B.S. degree in Automation from Beijing University of
 ## Main Research Interests
 - Machine Learning and Artificial Intelligence
 - Graph Representation Learning and Clustering
-- Multimodal Large Language Models and Scene Graph Generation
+- Multimodal Large Language Models and Reasoning
 - Artificial Intelligence for Science and Biological Proteins
 
 # <i><span style="color:red;">News</span></i>
