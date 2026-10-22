@@ -16,6 +16,8 @@ Tianxiang Zhao received the B.S. degree in Automation from Beijing University of
 - Artificial Intelligence for Science and Biological Proteins
 
 # <i><span style="color:red;">News</span></i>
+* **<span style="color:red;">[Congratulation]</span>** Tianxiang Zhao was selected for the "中国科协青年科技人才培育工程博士生专项计划" by the China Association for Science and Technology. (Oct. 2026)
+
 * **<span style="color:green;">[Paper]</span>** One paper has been accepted by _**ACM MM**_. (Jul. 2026)
 
 * **<span style="color:green;">[Paper]</span>** Two papers have been accepted by _**ICML**_. (May 2026)
