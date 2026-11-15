@@ -121,6 +121,7 @@ You can also find more papers on [Google Scholar](https://scholar.google.com/cit
 - Reviewer for Knowledge-Based Systems (KBS)
 - Reviewer for Applied Soft Computing (ASOC)
 - Reviewer for International Conference on Machine Learning (ICML)
-- Reviewer for ACM International Conference on Multimedia (ACM MM)
+- Reviewer for IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)
 - Reviewer for AAAI Conference on Artificial Intelligence (AAAI)
+- Reviewer for ACM International Conference on Multimedia (ACM MM)
 - Reviewer for International Joint Conference on Neural Networks (IJCNN)
